@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 public class SampleFormsPage {
 
 	/*
-	 * Author: Hemali
+	 * Author: Krish Soft
 	 * Date: 
 	 * Description: This is class contains locators for Sample Forms Page objects/elements  
 	 *  	
